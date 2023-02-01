@@ -1,15 +1,15 @@
 <img src="https://github.com/Nkaleth/Nkaleth/blob/main/Header.gif" alt="banner that says Nilton Segura - software developer">
 
-### <div align="center">I'm Nilton Segura,full-stack developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Nilton Segura, a full-stack developer 👨‍💻 working remotely since 2022.🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Leaderboard Project.](https://github.com/Nkaleth/Leaderboard)  
+- 🔭 I’m currently working on [GitHub Leaderboard Project.](https://github.com/Nkaleth/Leaderboard)  
   
 
 - 🌱 I’m currently learning GitFlow and React.  
   
 
-- ❓ Ask me about anything related to how to start in the software development world.  
+- ❓ Ask me about anything related to getting started in the world of software development.  
   
 
 - ⚡ Fun fact: I prefer using Git Bash to commit.   
