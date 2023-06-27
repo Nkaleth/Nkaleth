@@ -1,6 +1,6 @@
 <img src="https://github.com/Nkaleth/Nkaleth/blob/main/Header.gif" alt="banner that says Nilton Segura - software developer">
 
-### <div align="center">I'm Nilton Segura, a full-stack developer 👨‍💻 working remotely since 2022.🚀</div>  
+### <div align="center">I'm Nilton Segura, a Certified full-stack Web developer 👨‍💻 working remotely since 2022.🚀</div>  
   
 
 - 🔭 I’m currently working on [GitHub Leaderboard Project.](https://github.com/Nkaleth/blog_web)  
