@@ -3,7 +3,7 @@
 ### <div align="center">I'm Nilton Segura, a Certified full-stack Web developer 👨‍💻 working remotely since 2022.🚀</div>  
   
 
-- 🔭 I’m currently working on [GitHub Leaderboard Project.](https://github.com/Nkaleth/blog_web)  
+- 🔭 I’m currently working on [GitHub Full-stack Book a place Project](https://github.com/Nkaleth/book-an-appointment-front-end)  
   
 
 - 🌱 I’m currently learning Ruby on Rails.  
