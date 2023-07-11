@@ -3,11 +3,10 @@
 ### <div align="center">I'm Nilton Segura, a Certified full-stack Web developer 👨‍💻 working remotely since 2022.🚀</div>  
   
 - 🌱 I’m currently learning Django and Python.   
-- 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Projects.
-- 💬 Ask me about Web Development.
+- 👨‍💻 Eager to Learn New Technologies.
+- 🚀 Seeking Remote Opportunities.
 - 📫 Contact me here!: [Linkedin](https://www.linkedin.com/in/niltonsegura/).
-- ⚡ Fun fact: Coding is like speaking but you need to know how to speak to the computer. 
-- ❓ Ask me about anything related to getting started in the world of software development.  
+- ⚡ Fun fact: Coding is a skill To talk to the device And shape it to your will With symbols and concise.
 
 <br/>  
 
