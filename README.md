@@ -1,14 +1,12 @@
-<img src="https://github.com/Nkaleth/Nkaleth/blob/main/Header.gif" alt="banner that says Nilton Segura - software developer">
+<img src="/header2.png" alt="banner that says Nilton Segura - software developer">
 
 ### <div align="center">I'm Nilton Segura, a Certified full-stack Web developer 👨‍💻 working remotely since 2022.🚀</div>  
   
-
-- 🔭 I’m currently working on [GitHub Full-stack Book a place Project](https://github.com/Nkaleth/book-an-appointment-front-end)  
-  
-
-- 🌱 I’m currently learning Ruby on Rails.  
-  
-
+- 🌱 I’m currently learning Django and Python.   
+- 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Projects.
+- 💬 Ask me about Web Development.
+- 📫 Contact me here!: [Linkedin](https://www.linkedin.com/in/niltonsegura/).
+- ⚡ Fun fact: Coding is like speaking but you need to know how to speak to the computer. 
 - ❓ Ask me about anything related to getting started in the world of software development.  
 
 <br/>  
