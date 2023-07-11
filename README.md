@@ -1,7 +1,7 @@
 <img src="/header2.png" alt="banner that says Nilton Segura - software developer">
 
-### <div align="center">I'm Nilton Segura, a Certified full-stack Web developer 👨‍💻 working remotely since 2022.🚀</div>  
-  
+### <div align="center">Certified Full Stack web developer👨‍💻 with experience in remote work since 2022.🚀 I have expertise in creating responsive and user-friendly web applications.</div> 
+
 - 🌱 I’m currently learning Django and Python.   
 - 👨‍💻 Eager to Learn New Technologies.
 - 🚀 Seeking Remote Opportunities.
