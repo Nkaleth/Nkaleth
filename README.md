@@ -7,7 +7,7 @@
 - 👨‍💻 Eager to Learn New Technologies.
 - 🚀 Seeking Remote Opportunities.
 - 📫 Contact Me here!: [Linkedin](https://www.linkedin.com/in/niltonsegura/).
-- ⚡ Fun fact: Coding is a Skill to Talk to the Device and shape it to your Will with symbols and concise.
+- ⚡ Fun fact: Coding is a skill to talk to the device and shape it to your Will with symbols and concise.
 
 <br/>  
 
