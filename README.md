@@ -1,6 +1,6 @@
 <img src="/header2.png" alt="banner that says Nilton Segura - software developer">
 
-### <div align="center">Certified Full Stack web developer👨‍💻 with experience in remote work since 2022.🚀 I have expertise in creating responsive and user-friendly web applications.</div> 
+### <div align="center">Certified Full Stack web developer👨‍💻.🚀 I have expertise in creating responsive and user-friendly web applications.</div> 
 
 - 🌱 I’m currently learning NodeJS+ExpressJS and MongoDB, AWS, and Docker.
 - 🛠️ Now Working on [Movie Reviews](https://github.com/Nkaleth/movie-reviews).   
