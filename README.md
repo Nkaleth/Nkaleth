@@ -2,7 +2,7 @@
 
 ### <div align="center">Certified Full Stack web developer👨‍💻.🚀 I have expertise in creating responsive and user-friendly web applications.</div> 
 
-- 🌱 I’m currently learning NodeJS+ExpressJS,MongoDB,AWS,and Docker.
+- 🌱 I’m currently learning Python.
 - 🛠️ Now Working on [Dating-app with MERN](https://github.com/Nkaleth/dating-app-mern).   
 - 👨‍💻 Eager to Learn New Technologies.
 - 🚀 Seeking Remote Opportunities.
