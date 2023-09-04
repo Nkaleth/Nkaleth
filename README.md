@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Python.
 - 🛠️ Now Working on [Dating-app with MERN](https://github.com/Nkaleth/dating-app-mern).   
-- 👨‍💻 Eager to Learn New Technologies.
+- 👨‍💻 Eager to Learn new Technologies.
 - 🚀 Seeking Remote Opportunities.
 - 📫 Contact me here!: [Linkedin](https://www.linkedin.com/in/niltonsegura/).
 - ⚡ Fun fact: Coding is a Skill to talk to the device and shape it to your Will with symbols and concise.
