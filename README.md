@@ -2,7 +2,7 @@
 
 ### <div align="center">Certified Full Stack web developer👨‍💻.🚀 I have expertise in creating responsive and user-friendly web applications.</div> 
 
-- 🌱 I’m currently learning Scala.
+- 🌱 I’m currently learning Scala, VueJS, and NuxtJs.
 - 🛠️ Now Working on [Dating-app with MERN](https://github.com/Nkaleth/dating-app-mern).   
 - 👨‍💻 Eager to Learn new Technologies.
 - 🚀 Seeking Remote Opportunities.
