@@ -6,7 +6,7 @@
 - 🛠️ Now Working on [Dating-app with MERN](https://github.com/Nkaleth/dating-app-mern).   
 - 👨‍💻 Eager to Learn New Technologies.
 - 🚀 Seeking Remote Opportunities.
-- 📫 Contact me here!: [Linkedin](https://www.linkedin.com/in/niltonsegura/).
+- 📫 Contact Me here!: [Linkedin](https://www.linkedin.com/in/niltonsegura/).
 - ⚡ Fun Fact: Coding is a Skill to talk to the Device and shape it to your Will with symbols and concise.
 
 <br/>  
