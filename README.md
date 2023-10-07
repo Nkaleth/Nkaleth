@@ -3,7 +3,7 @@
 ### <div align="center">Certified Full Stack web developer👨‍💻.🚀 I have expertise in creating responsive and user-friendly web applications.</div> 
 
 - 🌱 I’m currently learning Scala with Play, Vue.JS, and Nuxt.Js.
-- 🛠️ Now Working on [Dating-app with MERN](https://github.com/Nkaleth/dating-app-mern).   
+- 🛠️ Now Working on [Vue.Js App](https://github.com/Nkaleth/first_vuejs).   
 - 👨‍💻 Eager to Learn New Technologies.
 - 🚀 Seeking Remote Opportunities.
 - 📫 Contact Me here!: [Linkedin](https://www.linkedin.com/in/niltonsegura/).
