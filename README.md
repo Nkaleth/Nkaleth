@@ -4,7 +4,7 @@ de<img src="/header2.png" alt="banner that says Nilton Segura - software develop
 
 - 🌱 I’m currently learning Scala with Play, Vue.JS, and Nuxt.Js.
 - 🛠️ Now Working on [Vue.Js App](https://github.com/Nkaleth/first_vuejs).   
-- 👨‍💻 Eager to Learn New Technologies.
+- 👨‍💻 Eager to Learn new Technologies.
 - 🚀 Seeking Remote Opportunities.
 - 📫 Contact Me Here!: [Linkedin](https://www.linkedin.com/in/niltonsegura/).
 - ⚡ Fun Fact: Coding is a Skill to talk to the Device and shape it to your Will with symbols and concise.
