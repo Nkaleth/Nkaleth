@@ -2,7 +2,7 @@ de<img src="/header2.png" alt="banner that says Nilton Segura - software develop
 
 ### <div align="center">Certified Full Stack web developer👨‍💻.🚀 I have expertise in creating responsive and user-friendly web applications.</div> 
 
-- 🌱 I’m currently learning Scala with Play, Vue.JS, and Nuxt.Js.
+- 🌱 I’m currently learning Node.js and Next.js.
 - 🛠️ Now Working on [Vue.Js App](https://github.com/Nkaleth/first_vuejs).   
 - 👨‍💻 Eager to Learn new Technologies.
 - 🚀 Seeking Remote Opportunities.
