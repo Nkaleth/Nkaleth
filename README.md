@@ -5,7 +5,7 @@ de<img src="/header2.png" alt="banner that says Nilton Segura - software develop
 - 🌱 I’m Currently Learning Node.js.
 - 🛠️ Now Working on [Vue.Js App](https://github.com/Nkaleth/first_vuejs).   
 - 👨‍💻 Eager to Learn New Technologies.
-- 🚀 Seeking Remote opportunities.
+- 🚀 Seeking Remote Opportunities.
 - 📫 Contact Me Here: [Linkedin](https://www.linkedin.com/in/niltonsegura/).
 - ⚡ Fun Fact: Coding is a Skill to Talk to the Device and Shape it to your Will with symbols and concise.
 
