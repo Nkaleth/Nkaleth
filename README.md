@@ -1,4 +1,4 @@
-de<img src="/header2.png" alt="banner that says Nilton Segura - software developer">
+<img src="/header2.png" alt="banner that says Nilton Segura - software developer">
 
 ### <div align="center">Certified Full Stack web developer👨‍💻.🚀 I have Expertise in Creating responsive and user-friendly web applications.</div> 
 
