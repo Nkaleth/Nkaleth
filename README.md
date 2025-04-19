@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently Learning RubyOnRails.
 - 🛠️ Now Working on [Task_manager_API](https://github.com/Nkaleth/task_manager_api).   
-- 👨‍💻 Eager to Learn new Technologies.
+- 👨‍💻 Eager to Learn new technologies.
 - 🚀 Seeking Remote Opportunities.
 - 📫 Contact Me Here: [Linkedin](https://www.linkedin.com/in/niltonsegura/).
 - ⚡ Fun Fact: Coding is a skill to Talk to the Device and Shape it to your Will with symbols and concise.
