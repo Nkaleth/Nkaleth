@@ -2,7 +2,7 @@
 
 ### <div align="center">Certified Full Stack web developer👨‍💻.🚀 I have Expertise in Creating responsive and user-friendly web applications.</div> 
 
-- 🌱 I’m currently learning RubyonRails.
+- 🌱 I’m currently learning RubyOnRails and Node.js.
 - 🛠️ Now Working on [Task_manager_API](https://github.com/Nkaleth/task_manager_api).   
 - 👨‍💻 Eager to Learn new technologies.
 - 🚀 Seeking Remote Opportunities.
