@@ -3,7 +3,7 @@
 ### <div align="center">Certified Full Stack web developer👨‍💻.🚀 I have Expertise in Creating responsive and user-friendly web applications.</div> 
 
 - 🌱 I’m currently learning RubyOnRails and Node.js.
-- 🛠️ Now Working on [Task_manager_API](https://github.com/Nkaleth/task_manager_api).   
+- 🛠️ Now Working on AI Chat with local Ollama.   
 - 👨‍💻 Eager to Learn new technologies.
 - 🚀 Seeking Remote Opportunities.
 - 📫 Contact Me Here: [Linkedin](https://www.linkedin.com/in/niltonsegura/).
