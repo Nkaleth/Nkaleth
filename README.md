@@ -3,7 +3,7 @@
 ### <div align="center">Certified Full Stack web developer👨‍💻.🚀 I have Expertise in Creating responsive and user-friendly web applications.</div> 
 
 - 🌱 I’m currently learning RubyOnRails and Node.js.
-- 🛠️ Now Working on AI Chat with local Ollama.   
+- 🛠️ Now Working on [AI Chat with local Ollama](https://github.com/Nkaleth/oracle_ai_front).   
 - 👨‍💻 Eager to Learn new technologies.
 - 🚀 Seeking Remote Opportunities.
 - 📫 Contact Me Here: [Linkedin](https://www.linkedin.com/in/niltonsegura/).
