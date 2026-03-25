@@ -38,6 +38,8 @@ margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>   
 <a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" /></a>  
 </div>
+
+<td valign="top" width="33%">
 <br/>  
 
 
