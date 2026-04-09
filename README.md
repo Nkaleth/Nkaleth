@@ -1,6 +1,6 @@
 <img src="/header2.png" alt="banner that says Nilton Segura - software developer">
 
-### <div align="center">Certified Full Stack web developer👨‍💻.🚀 I have Expertise in Creating responsive and user-friendly web applications.</div> 
+### <div align="center">Application Support Engineer | Ruby on Rails & React. Dedicated to maintaining mission-critical systems and ensuring data accuracy.🛠️✨</div> 
 
 - 🌱 I’m currently learning Next.js and NestJS.
 - 🛠️ Now Working on [AI Chat with local Ollama](https://github.com/Nkaleth/oracle_ai_front).   
