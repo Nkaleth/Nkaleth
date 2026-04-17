@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Next.js and NestJS.
 - 🛠️ Now Working on [AI Chat with local Ollama](https://github.com/Nkaleth/oracle_ai_front).   
 - 👨‍💻 Ai-Enthusiast.
-- 🚀 Seeking Remote Opportunities.
+- 🚀 Seeking Remote Opportunities
 - 📫 Contact Me Here: [Linkedin](https://www.linkedin.com/in/niltonsegura/).
 <br/>
  
